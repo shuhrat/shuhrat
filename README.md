@@ -1,5 +1,5 @@
 # Shuhrat Shadmonov
 
-Software developer at [Yandex].
+Software Engineer at [Yandex].
 
-Yandex: https://yandex.ru/
+[Yandex]: https://yandex.ru/
